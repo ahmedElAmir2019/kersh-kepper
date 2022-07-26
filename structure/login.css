@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.log{
+  height: 100%;
+  width: 100%;
+  background-image: url("../image/3353887.jpg");
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+}
+.form_box{
+  width: 360px;
+  height: 480px;
+  position:relative;
+  margin: 6%;
+  background: #fff;
+  padding: 5px;
+}
+.button_box{
+  width: 220px;
+  margin: 35px auto;
+  position: relative;
+  box-shadow: 0 0 20px 9px #ff61241f;
+  border-radius: 30px;
+}
+.toogle_button{
+  padding: 10px 26px;
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+  outline: none;
+  position: relative;
+}
+#btn{
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 110px;
+  height: 100%;
+  background : liner-gradient(to right,#ff105f,#ffad0d);
+  border-radius: 30px;
+  transition: .5s;
+
+}

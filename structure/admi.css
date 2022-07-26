@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+    display: inline-block;
+    background-image: url('../image/3692813.jpg');
+}
